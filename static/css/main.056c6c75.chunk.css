@@ -1,0 +1,2 @@
+#root,.game,body,html{height:100%}.game{display:flex;justify-content:center;align-items:center}.to-guess{width:250;height:250px;vertical-align:middle}button{font-size:18px;height:50px;width:100px}.title-text{font-size:30px;text-align:center}.guesses-stats,.wrong{font-size:24px;text-align:center}.wrong{color:red}.right{color:green}.right,.start-text{font-size:24px;text-align:center}
+/*# sourceMappingURL=main.056c6c75.chunk.css.map */
