@@ -1,3 +1,5 @@
+[Click Here to Play!](https://janjjacob.github.io/color-guess/)
+
 This is a Color Guesser Game made using React.
 
 Let's see how well you know your hex color codes!
