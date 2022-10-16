@@ -1,5 +1,5 @@
 import "./App.css";
-import { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 
 const getRandomColor = () => {
   let n = (Math.random() * 0xfffff * 1000000).toString(16);
